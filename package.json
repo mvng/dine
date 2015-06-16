@@ -1,0 +1,19 @@
+{
+  "name": "dine",
+  "version": "1.0.0",
+  "description": "dine",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvng/dine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvng/dine/issues"
+  },
+  "homepage": "https://github.com/mvng/dine#readme"
+}
